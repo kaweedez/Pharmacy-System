@@ -1,6 +1,6 @@
 # Pharmacy System
 
-This for demonstration
+It is Pharmacy system, which is developed for the pharmacies. It can manage prescriptions. Stocks. Patients, Doctors, Suppliers, Good Received notices, Batch and Locations 
 
 [LICENSE MIT](LICENSE) 
 
